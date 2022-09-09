@@ -20,7 +20,7 @@ Installation
 `githubv4` requires Go version 1.8 or later.
 
 ```bash
-go get -u github.com/shurcooL/githubv4
+go get -u github.com/1990kawa/githubv4
 ```
 
 Usage
